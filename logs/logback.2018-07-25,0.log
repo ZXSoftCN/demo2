@@ -1,0 +1,455 @@
+07:55:09.025 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 6652 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+07:55:09.026 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+07:55:09.029 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+07:55:20.789 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+07:55:33.840 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 27.491 seconds (JVM running for 31.848)
+07:57:12.321 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7164 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+07:57:12.322 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+07:57:12.325 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+07:57:17.957 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+07:57:29.961 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.734 seconds (JVM running for 21.722)
+07:58:31.940 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 4332 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+07:58:31.942 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+07:58:31.945 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+07:58:37.379 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+07:58:50.478 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 20.07 seconds (JVM running for 23.058)
+07:59:27.806 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+07:59:27.858 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+08:19:54.870 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 784 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+08:19:54.872 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+08:19:54.874 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+08:20:00.546 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+08:20:11.040 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.349 seconds (JVM running for 20.511)
+08:24:23.805 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+08:24:23.806 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:39:59.681 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9764 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+10:39:59.682 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+10:39:59.688 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+10:40:05.314 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+10:40:15.891 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.598 seconds (JVM running for 19.772)
+10:41:12.387 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:42:21.403 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:44:07.212 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:44:18.884 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:44:24.080 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:45:07.221 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:46:43.112 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9908 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+10:46:43.114 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+10:46:43.116 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+10:46:49.627 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+10:47:00.411 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.769 seconds (JVM running for 21.145)
+10:47:05.441 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:47:05.446 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:47:23.460 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+10:47:23.463 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:09:15.904 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8460 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:09:15.906 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:09:15.908 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:09:22.608 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:09:29.394 DemoLog [main] WARN  o.s.w.context.support.GenericWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'regionController' method 
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(byte[])
+to {[/api/regionresource/add],methods=[POST],consumes=[multipart/form-data]}: There is already 'regionController' bean method
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(org.springframework.web.multipart.MultipartFile) mapped.
+11:09:29.445 DemoLog [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'regionController' method 
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(byte[])
+to {[/api/regionresource/add],methods=[POST],consumes=[multipart/form-data]}: There is already 'regionController' bean method
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(org.springframework.web.multipart.MultipartFile) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1708)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:503)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:139)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'regionController' method 
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(byte[])
+to {[/api/regionresource/add],methods=[POST],consumes=[multipart/form-data]}: There is already 'regionController' bean method
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(org.springframework.web.multipart.MultipartFile) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:129)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1767)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1704)
+	... 39 common frames omitted
+11:09:29.487 DemoLog [main] ERROR o.springframework.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@49964d75] to prepare test instance [com.zxsoft.demo2.test.RegionControllerTest@5b11d0d8]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'regionController' method 
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(byte[])
+to {[/api/regionresource/add],methods=[POST],consumes=[multipart/form-data]}: There is already 'regionController' bean method
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(org.springframework.web.multipart.MultipartFile) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1708)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:503)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:395)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:139)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117)
+	... 24 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'regionController' method 
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(byte[])
+to {[/api/regionresource/add],methods=[POST],consumes=[multipart/form-data]}: There is already 'regionController' bean method
+public org.springframework.http.ResponseEntity<com.zxsoft.demo2.domain.RegionResource> com.zxsoft.demo2.controller.RegionController.addRegionResource(org.springframework.web.multipart.MultipartFile) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:129)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1767)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1704)
+	... 39 common frames omitted
+11:11:17.644 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 2552 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:11:17.645 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:11:17.647 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:11:24.530 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:11:34.904 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.542 seconds (JVM running for 20.522)
+11:11:39.540 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:11:41.561 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:11:51.904 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:11:51.907 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:12:09.917 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:40:34.399 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7648 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:40:34.400 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:40:34.403 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:40:40.005 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:40:50.872 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.675 seconds (JVM running for 20.041)
+11:41:01.441 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:41:01.442 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:41:12.415 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:41:22.508 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:41:58.377 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:42:34.270 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:43:56.545 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7992 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:43:56.546 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:43:56.549 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:44:02.441 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:44:14.123 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.802 seconds (JVM running for 21.166)
+11:44:19.420 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:44:19.434 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:44:28.571 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:44:28.571 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:44:41.475 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:44:41.473 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:48:09.896 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9904 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:48:09.898 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:48:09.900 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:48:15.883 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:48:27.047 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.666 seconds (JVM running for 21.037)
+11:48:32.039 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:48:32.122 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:48:40.265 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:49:06.425 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 10476 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+11:49:06.426 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+11:49:06.429 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+11:49:12.503 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+11:49:25.106 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 20.182 seconds (JVM running for 22.978)
+11:49:30.239 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:49:30.243 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:49:53.501 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+11:49:53.524 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:01:09.121 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9160 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:01:09.122 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:01:09.125 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:01:15.049 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:01:25.935 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.307 seconds (JVM running for 20.558)
+12:01:30.745 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:01:31.705 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:01:38.856 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:01:48.521 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:04:25.870 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 10488 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:04:25.872 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:04:25.874 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:04:31.546 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:04:42.416 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.879 seconds (JVM running for 20.001)
+12:05:18.491 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:05:18.515 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:05:31.382 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:05:31.383 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:06:19.705 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7520 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:06:19.707 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:06:19.709 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:06:24.844 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:06:35.559 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.402 seconds (JVM running for 19.853)
+12:06:39.658 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:06:55.434 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8988 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:06:55.436 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:06:55.439 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:07:01.485 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:07:12.066 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.784 seconds (JVM running for 20.393)
+12:08:21.300 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 10980 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:08:21.302 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:08:21.304 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:08:28.444 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:08:39.127 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 19.262 seconds (JVM running for 21.683)
+12:37:52.977 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9612 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+12:37:52.978 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+12:37:52.980 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+12:37:59.180 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+12:38:11.512 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 20.098 seconds (JVM running for 22.847)
+12:38:16.970 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:38:16.971 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+12:38:24.231 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:38:55.202 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8792 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+14:38:55.204 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+14:38:55.207 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+14:39:01.739 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+14:39:12.855 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 19.019 seconds (JVM running for 21.721)
+14:39:26.402 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:39:26.404 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:39:28.170 DemoLog [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1406, SQLState: 22001
+14:39:28.171 DemoLog [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Data truncation: Data too long for column 'resurl' at row 1
+14:39:28.173 DemoLog [main] ERROR org.hibernate.internal.ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.DataException: could not execute statement]
+14:39:34.646 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:39:48.495 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:40:35.330 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 12100 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+14:40:35.332 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+14:40:35.334 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+14:40:41.298 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+14:40:51.795 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.547 seconds (JVM running for 20.28)
+14:40:56.992 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:40:57.001 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:05.655 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:05.667 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:13.931 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:15.062 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:16.434 DemoLog [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1406, SQLState: 22001
+14:41:16.435 DemoLog [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Data truncation: Data too long for column 'resurl' at row 1
+14:41:16.440 DemoLog [main] ERROR org.hibernate.internal.ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.DataException: could not execute statement]
+14:41:37.530 DemoLog [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:41:37.530 DemoLog [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:42:11.042 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7920 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+14:42:11.043 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+14:42:11.047 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+14:42:17.261 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+14:42:27.803 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.888 seconds (JVM running for 20.818)
+14:44:00.054 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:44:00.090 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:44:00.131 DemoLog [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1406, SQLState: 22001
+14:44:00.131 DemoLog [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Data truncation: Data too long for column 'resurl' at row 1
+14:44:00.132 DemoLog [main] ERROR org.hibernate.internal.ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.DataException: could not execute statement]
+14:44:30.980 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 2232 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+14:44:30.982 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+14:44:30.984 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+14:44:37.429 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+14:44:48.815 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 19.069 seconds (JVM running for 21.78)
+14:47:16.618 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+14:47:16.619 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+15:05:21.746 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8580 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+15:05:21.748 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+15:05:21.753 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+15:05:27.821 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+15:05:39.099 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.878 seconds (JVM running for 21.623)
+15:05:44.053 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+15:05:44.251 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+15:09:46.206 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9856 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+15:09:46.211 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+15:09:46.228 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+15:09:51.852 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+15:10:02.664 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.614 seconds (JVM running for 20.233)
+16:11:58.560 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 2944 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:11:58.561 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:11:58.564 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:12:04.413 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:12:15.042 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.621 seconds (JVM running for 20.035)
+16:12:26.712 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:12:26.712 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:14:01.939 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:14:02.139 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:14:47.107 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:14:47.109 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:15:44.574 DemoLog [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:16:16.912 DemoLog [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:16:25.681 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 4136 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:16:25.682 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:16:25.685 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:16:31.349 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:16:42.234 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.791 seconds (JVM running for 20.005)
+16:16:58.131 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:16:58.137 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:19:39.134 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:19:39.134 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:21:57.800 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:22:14.112 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:26:02.826 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 2404 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:26:02.827 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:26:02.830 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:26:08.694 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:26:20.032 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.274 seconds (JVM running for 20.82)
+16:26:27.974 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:26:28.021 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:26:34.714 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:26:43.538 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:27:04.289 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:27:04.289 DemoLog [SimpleAsyncTaskExecutor-3] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:27:04.496 DemoLog [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+16:27:04.497 DemoLog [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Column 'regionId' cannot be null
+16:27:04.503 DemoLog [main] ERROR org.hibernate.internal.ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+16:29:07.028 DemoLog [SimpleAsyncTaskExecutor-4] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:29:43.832 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8580 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:29:43.833 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:29:43.836 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:29:49.428 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:30:00.034 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.498 seconds (JVM running for 20.136)
+16:30:04.453 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:30:05.582 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:30:11.692 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:30:11.693 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:30:38.786 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9872 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:30:38.787 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:30:38.790 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:30:44.595 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:30:55.405 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.786 seconds (JVM running for 20.441)
+16:31:00.313 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:31:01.475 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:33:28.619 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 11544 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:33:28.621 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:33:28.625 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:33:34.344 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:33:44.986 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.821 seconds (JVM running for 20.438)
+16:33:52.741 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:33:52.741 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:45:59.589 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 12196 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:45:59.598 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:45:59.601 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:46:05.713 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:46:16.614 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.131 seconds (JVM running for 20.936)
+16:49:36.950 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 11456 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:49:36.951 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:49:36.954 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:49:42.570 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:49:53.324 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.582 seconds (JVM running for 20.561)
+16:49:58.293 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:50:51.082 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:53:18.821 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:53:38.535 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 9564 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:53:38.536 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:53:38.539 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:53:44.864 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:53:56.171 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 19.131 seconds (JVM running for 21.83)
+16:54:17.538 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:54:17.542 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:55:15.685 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:55:21.304 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:55:30.981 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 10468 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:55:30.983 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:55:30.986 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:55:36.570 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:55:48.624 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 19.13 seconds (JVM running for 21.426)
+16:55:54.448 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:55:54.448 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:57:54.777 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:59:00.366 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 7296 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+16:59:00.367 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+16:59:00.369 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+16:59:06.216 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+16:59:17.425 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.266 seconds (JVM running for 21.093)
+16:59:23.692 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+16:59:23.692 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:00:19.629 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 2108 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+17:00:19.630 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+17:00:19.633 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+17:00:25.886 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+17:00:37.144 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.703 seconds (JVM running for 21.079)
+17:01:06.264 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:01:06.283 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:03:07.364 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 11304 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+17:03:07.366 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+17:03:07.368 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+17:03:12.817 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+17:03:23.766 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 17.655 seconds (JVM running for 20.276)
+17:03:33.770 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:03:33.772 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:04:41.624 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:06:56.289 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 8524 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+17:06:56.291 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+17:06:56.294 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+17:07:02.194 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+17:07:13.367 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.595 seconds (JVM running for 20.996)
+17:07:17.451 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:07:32.688 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:08:55.080 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Starting RegionControllerTest on leoworkcentre with PID 10864 (started by Administrator in E:\MySolution\Spring\SpringBootDemo\demo2)
+17:08:55.082 DemoLog [main] DEBUG com.zxsoft.demo2.test.RegionControllerTest - Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+17:08:55.085 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - The following profiles are active: dev
+17:09:00.582 DemoLog [main] WARN  org.hibernate.id.UUIDHexGenerator - HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+17:09:11.960 DemoLog [main] INFO  com.zxsoft.demo2.test.RegionControllerTest - Started RegionControllerTest in 18.066 seconds (JVM running for 20.766)
+17:10:16.305 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:10:16.306 DemoLog [SimpleAsyncTaskExecutor-1] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:10:39.383 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
+17:10:49.411 DemoLog [SimpleAsyncTaskExecutor-2] WARN  o.s.a.r.listener.SimpleMessageListenerContainer - Consumer raised exception, processing can restart if the connection factory supports it. Exception summary: org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection refused: connect
